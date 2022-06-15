@@ -1,0 +1,42 @@
+# Skroman-All-work-code-and-learning-
+16-05-2022 to 15-06-2022
+
+
+step :=     
+
+  Settings
+  udate and security 
+  devoper mode ON 
+  Windows feature   search
+  check there windows subsystem linux
+  tik ok check mark 
+  done click ok 
+  
+  restart the system 
+  
+  downoload  BASH exe and install it
+  extract file in c drive 
+  c:/sh
+  
+  set enviroment veriable in system path not user path 
+  click in EDIT  and copy c drive path paste here 
+  save 
+  save 
+  
+  
+  check the file properly run or not 
+  
+  create .sh file and run its 
+  
+  
+  example : 3 python file CREATED AND  GIVEN THE RUN PATH IN .SH FILE 
+  LIKE THAT   python nss.py , python sir.py ,  python nikhil.py
+  
+  run .sh file in  sh filename.sh
+  
+  or   sh ps.sh   
+  
+  or 
+  
+  bash ps.sh 
+  
