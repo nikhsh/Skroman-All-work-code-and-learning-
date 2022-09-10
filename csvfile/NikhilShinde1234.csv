@@ -1,0 +1,3 @@
+bms_deviceid,bms_temperature_max,bms_temperature_min,bms_pack_capacity,battery_voltage,battery_current,battery_soc,battery_soh,no_of_cells,pack_total_capacity,cell_voltage_difference,charge_discharge_cycles,charge_discharge_status,fet_charge_state,fet_discharge_state,high_voltage_alarm,low_voltage_alarm,charge_over_current_alarm,discharge_over_current_alarm,charge_high_temperature_alarm,charge_low_temperature_alarm,discharge_high_temperature_alarm,discharge_low_temperature_alarm,total_high_pressure_alarm,total_low_pressure_alarm,cell_temp
+,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00
+,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0,0.00,0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00
